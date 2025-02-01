@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently interested in `DevOps`, `CI/CD`
 - 🥅 2025 Goals : AWS CCP, K8S CKAD
-- ⚡ Fun fact: I love traveling to Japan, and I pursue various experiences!
+- ⚡ Fun fact: I pursue various experiences, and I love traveling to Japan!
 <br/>
 <br/>
   
