@@ -4,7 +4,7 @@
 ### 🌈 Hello! I'm SANG-CHEON PARK 👋 
 
 - 🌱 I’m currently interested in `DevOps`, `CI/CD`
-- 🥅 20205 Goals : AWS CCP, K8S CKAD
+- 🥅 2025 Goals : AWS CCP, K8S CKAD
 - ⚡ Fun fact: I love traveling to Japan, and I pursue various experiences!
 <br/>
 <br/>
