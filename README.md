@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SangCheonP&fontSize=90)
 
 
-### 🌈 Hello! I'm SANG-CHEON PARK 👋 
+### 🌈 Hello! I'm SANGCHEON PARK 👋 
 
 - 🌱 I’m currently interested in `DevOps`, `CI/CD`
 - 🥅 2025 Goals : AWS CCP, K8S CKAD
