@@ -4,7 +4,7 @@
 ### 🌈 Hello! I'm SANGCHEON PARK 👋 
 
 - 🌱 I’m currently interested in `DevOps`, `CI/CD`
-- 🥅 2025 Goals : AWS CCP, K8S CKAD
+- 🥅 2025 Goals : AWS CCP(Fin), K8S CKAD
 - ⚡ Fun fact: I pursue various experiences, and I love traveling to Japan!
 <br/>
 <br/>
