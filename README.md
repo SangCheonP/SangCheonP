@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8794a3f9-0705-418b-a84e-354d1c4bd72e)![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SangCheonP&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SangCheonP&fontSize=90)
 
 
 ### 🌈 Hello! I'm SANGCHEON PARK 👋 
