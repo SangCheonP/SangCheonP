@@ -3,19 +3,11 @@
 
 ### 🌈 Hello! I'm SANGCHEON PARK 👋 
 
-- 🌱 I’m currently interested in `DevOps`, `CI/CD`
-- 🥅 2025 Goals : AWS CCP(Fin), K8S CKAD
+- 🌱 I’m currently interested in `Oracle`, `SQL Tuning`
 - ⚡ Fun fact: I pursue various experiences, and I love traveling to Japan!
 <br/>
 <br/>
   
-
-<div style="display: flex, height:180px">
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SangCheonP&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SangCheonP's github stats" />
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangCheonP&layout=compact&theme=nord&hide_border=true" />
-</div>
-<br />
-<br />
 
 ## 🛠 Tech Stack
 
@@ -53,8 +45,3 @@
 
 <br/>
 <br/>
-
-## 📬 Connect with Me
-[<img align="left" alt="SangCheonP | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-
-[instagram]: https://instagram.com/sangch__
