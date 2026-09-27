@@ -29,7 +29,7 @@
 ### NORISYSTEM · Software Developer
 **2025.03 — Present**
 
-#### SSPS · 생산·품질 시스템
+#### SSPS · Samsung Semiconductor Smart Production System
 **2025.03 — 2026.05 · 2026.09 — Present**  
 `C#` `ASP.NET` `Oracle` `PL/SQL` `JavaScript` `RealGrid2` `ECharts`
 
@@ -51,7 +51,7 @@
 
 ## 🚀 Projects
 
-### S.F.D · Smart Factory Defect Detection
+### [S.F.D · Smart Factory Defect Detection](https://github.com/SangCheonP/S.F.D)
 **2024.08.16 — 2024.10.11**  
 `Python` `Inception-ResNet-v2` `FastAPI` `AWS S3` `SSE` `Docker` `Jenkins`
 
@@ -65,7 +65,7 @@
 
 <br/>
 
-### SSMART OFFICE
+### [SSMART OFFICE](https://github.com/SangCheonP/SSMART-OFFICE)
 **2024.10.14 — 2024.11.22**  
 `Spring Boot` `React` `Docker` `Jenkins` `AWS`
 
@@ -77,7 +77,7 @@
 
 <br/>
 
-### 0CHA
+### [0CHA](https://github.com/SangCheonP/0CHA)
 **2024.07.01 — 2024.08.16**  
 `Spring Boot` `WebSocket` `STOMP` `JWT` `Docker` `Jenkins`
 
