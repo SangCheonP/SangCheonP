@@ -32,7 +32,7 @@
 #### SSPS · Samsung Semiconductor Smart Production System
 **2025.03 — 2026.05 · 2026.09 — 현재**
 
-> **역할** · 풀스택 · Oracle SQL/PLSQL · 성능 개선  
+> **역할** · 풀스택 개발 · Oracle SQL/PLSQL · 성능 개선  
 > **기술** · `C#` `ASP.NET` `Oracle` `PL/SQL` `JavaScript` `RealGrid2` `ECharts`
 
 - Inbay 재공 현황, 기준정보, 품질 대시보드 등 **화면·API·DB 기능 개발**
@@ -43,7 +43,7 @@
 #### MES · 제조 현장 MES/WMS 구축
 **2026.06 — 2026.08**
 
-> **역할** · 풀스택 · 비즈니스 로직 · 동시성 제어  
+> **역할** · 풀스택 개발 · WMS 개발 · 요구사항 개선  
 > **기술** · `Java` `Spring Boot` `React` `PostgreSQL`
 
 - 작업지시, LOT Split·Merge, 위치 이동 등 **MES/WMS 기능 개발**
