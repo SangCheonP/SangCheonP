@@ -31,6 +31,7 @@
 
 #### SSPS · Samsung Semiconductor Smart Production System
 **2025.03 — 2026.05 · 2026.09 — Present**  
+**Role | Full Stack · Oracle SQL/PLSQL · Performance Improvement**  
 `C#` `ASP.NET` `Oracle` `PL/SQL` `JavaScript` `RealGrid2` `ECharts`
 
 - Inbay 재공 현황, 기준정보, 품질 대시보드 등 **화면·API·DB 기능 개발**
@@ -40,6 +41,7 @@
 
 #### MES · 제조 현장 MES/WMS 구축
 **2026.06 — 2026.08**  
+**Role | Full Stack · Business Logic · Concurrency Control**  
 `Java` `Spring Boot` `React` `PostgreSQL`
 
 - 작업지시, LOT Split·Merge, 위치 이동 등 **MES/WMS 기능 개발**
@@ -53,7 +55,8 @@
 
 ### [S.F.D · Smart Factory Defect Detection](https://github.com/SangCheonP/S.F.D)
 **2024.08.16 — 2024.10.11**  
-`Python` `Inception-ResNet-v2` `FastAPI` `AWS S3` `SSE` `Docker` `Jenkins`
+**Role | Infra · CI/CD · AI Model Training**  
+`Python` `Inception-ResNet-v2` `AWS S3` `SSE` `Docker` `Jenkins` `Nginx`
 
 > 제조 이미지를 AI로 분석해 정상·불량을 판별하고 결과를 제공하는 시스템
 
@@ -61,30 +64,33 @@
 - 학습률·Batch Size·Epoch 등을 조정해 **Accuracy 92% 이상** 달성
 - Accuracy와 Confusion Matrix로 정상/불량의 **오분류 방향까지 검증**
 - **이미지 촬영 → S3 저장/이벤트 기반 AI 처리 → AI 분석 완료 → 결과 이벤트 → SSE로 프론트 전달**
-- 합의된 아키텍처에 맞춰 **인프라 및 CI/CD 환경 구축**
+- 합의된 아키텍처에 맞춰 **Docker·Jenkins·Nginx 기반 인프라 및 CI/CD 환경 구축**
 
 <br/>
 
 ### [SSMART OFFICE](https://github.com/SangCheonP/SSMART-OFFICE)
 **2024.10.14 — 2024.11.22**  
-`Spring Boot` `React` `Docker` `Jenkins` `AWS`
+**Role | Infra · CI/CD**  
+`Docker` `Docker Compose` `Jenkins` `AWS EC2` `Nginx`
 
 > 인사 관리를 위한 올인원 서비스
 
-- Docker 기반 **MSA 배포 환경** 구축
+- Docker Compose 기반 **MSA 배포 환경** 구축
 - Jenkins 기반 **CI/CD 파이프라인** 구축
-- 서비스별 배포 흐름을 정리하고 빌드·배포 과정 개선
+- 병렬 빌드를 적용해 전체 빌드 시간을 **약 4분 → 2분**으로 단축
+- Config Server와 Discovery Server 상태 확인을 위한 Docker Health Check 구성
 
 <br/>
 
 ### [0CHA](https://github.com/SangCheonP/0CHA)
 **2024.07.01 — 2024.08.16**  
+**Role | Infra · Backend · Real-time Chat**  
 `Spring Boot` `WebSocket` `STOMP` `JWT` `Docker` `Jenkins`
 
 > 운동 루틴·기록 관리, 피드, AI 자세 교정, 중고거래 기능을 제공하는 헬스 관리 플랫폼
 
 - WebSocket·STOMP 기반 **실시간 채팅 기능 개발**
-- WebSocket 전용 인증 인터셉터를 구현해 **JWT 인증 흐름 보완**
+- HTTP JWT 인증만으로 처리되지 않던 WebSocket 연결 인증을 별도 인터셉터로 분리해 **401 오류 해결**
 - Docker 기반 배포 환경 및 Jenkins CI/CD 구축
 
 ---
@@ -131,6 +137,15 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🎓 Education & Training
+
+| 기간 | 내용 |
+| :---: | --- |
+| **2024.02** | 광운대학교 소프트웨어학부 졸업 |
+| **2024.01 — 2024.12** | 삼성 청년 SW 아카데미(SSAFY) 11기 · **1,600시간** |
 
 ---
 
