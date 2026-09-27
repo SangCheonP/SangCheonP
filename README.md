@@ -103,6 +103,8 @@
 - HTTP JWT 인증만으로 처리되지 않던 WebSocket 연결 인증을 별도 인터셉터로 분리해 **401 오류 해결**
 - Docker 기반 배포 환경 및 Jenkins CI/CD 구축
 
+<br/>
+
 ### 추가 프로젝트
 
 - **[알바닷컴](https://github.com/kw-ic-web/23-teampjt-webssulme)** — Spring Boot 기반 API 개발 및 Docker·GitHub Actions 기반 CI/CD 환경 구축
