@@ -35,6 +35,8 @@
 > **역할** · 풀스택 개발 · Oracle SQL/PLSQL · 성능 개선  
 > **기술** · `C#` `ASP.NET` `Oracle` `PL/SQL` `JavaScript` `RealGrid2` `ECharts`
 
+반도체 생산·품질 데이터를 조회·관리하고, 운영 중 발생하는 성능과 데이터 처리 문제를 개선하는 시스템
+
 - Inbay 재공 현황, 기준정보, 품질 대시보드 등 **화면·API·DB 기능 개발**
 - 약 **28만 건 Carrier + 2.5만 건 WIP → 2만 건 Inbay 데이터**의 적재 흐름 분석
 - 불필요한 JOIN·GROUP BY·MAX 연산을 제거해 **적재 시간 약 3분 → 1분 20초, 55% 단축**
@@ -46,6 +48,8 @@
 > **역할** · 풀스택 개발 · WMS 개발 · 요구사항 개선  
 > **기술** · `Java` `Spring Boot` `React` `PostgreSQL`
 
+제조 현장의 자재 이동과 작업 흐름을 관리하고, 실제 사용자 요구사항을 반영해 기능을 개선한 MES/WMS 구축 프로젝트
+
 - 작업지시, LOT Split·Merge, 위치 이동 등 **MES/WMS 기능 개발**
 - 실제 사용자 업무 흐름을 확인해 Split·Merge 기능을 **한 화면에서 연속 처리**하도록 개선
 - 채번 테이블에 **Row Lock + Commit** 기반 동시성 제어를 적용해 ID 중복 방지
@@ -54,6 +58,21 @@
 ---
 
 ## 🚀 프로젝트
+
+### [SSMART OFFICE](https://github.com/SangCheonP/SSMART-OFFICE)
+**2024.10.14 — 2024.11.22**
+
+> **역할** · 인프라 · CI/CD  
+> **기술** · `Docker` `Docker Compose` `Jenkins` `AWS EC2` `Nginx`
+
+인사 관리를 위한 올인원 서비스
+
+- Docker Compose 기반 **MSA 배포 환경** 구축
+- Jenkins 기반 **CI/CD 파이프라인** 구축
+- 병렬 빌드를 적용해 전체 빌드 시간을 **약 4분 → 2분**으로 단축
+- Config Server와 Discovery Server 상태 확인을 위한 Docker Health Check 구성
+
+<br/>
 
 ### [S.F.D · Smart Factory Defect Detection](https://github.com/SangCheonP/S.F.D)
 **2024.08.16 — 2024.10.11**
@@ -68,21 +87,6 @@
 - Accuracy와 Confusion Matrix로 정상/불량의 **오분류 방향까지 검증**
 - **이미지 촬영 → S3 저장/이벤트 기반 AI 처리 → AI 분석 완료 → 결과 이벤트 → SSE로 프론트 전달**
 - 합의된 아키텍처에 맞춰 **Docker·Jenkins·Nginx 기반 인프라 및 CI/CD 환경 구축**
-
-<br/>
-
-### [SSMART OFFICE](https://github.com/SangCheonP/SSMART-OFFICE)
-**2024.10.14 — 2024.11.22**
-
-> **역할** · 인프라 · CI/CD  
-> **기술** · `Docker` `Docker Compose` `Jenkins` `AWS EC2` `Nginx`
-
-인사 관리를 위한 올인원 서비스
-
-- Docker Compose 기반 **MSA 배포 환경** 구축
-- Jenkins 기반 **CI/CD 파이프라인** 구축
-- 병렬 빌드를 적용해 전체 빌드 시간을 **약 4분 → 2분**으로 단축
-- Config Server와 Discovery Server 상태 확인을 위한 Docker Health Check 구성
 
 <br/>
 
