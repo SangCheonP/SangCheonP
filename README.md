@@ -7,6 +7,10 @@
 생산·품질 시스템과 MES를 개발·운영하며  
 **업무 흐름과 데이터 처리 구조를 이해하고, 성능·정합성·운영 안정성을 개선해왔습니다.**
 
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/SangCheonP/dev-portfolio/blob/main/dev-portfolio.pdf)
+
 </div>
 
 ---
@@ -186,11 +190,3 @@
 | ✅ **예외 상황까지 검증합니다.** | 동시 요청과 운영 데이터 등 실제 환경에서 발생할 수 있는 조건을 고려합니다. |
 | 👥 **사용자의 업무를 먼저 이해합니다.** | 요구사항 자체보다 왜 필요한지와 실제 사용 흐름을 확인합니다. |
 | 🤝 **공동의 목표를 기준으로 협업합니다.** | 의견이 다를 때 프로젝트 목표와 객관적인 기준을 바탕으로 방향을 선택합니다. |
-
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/SangCheonP/dev-portfolio/blob/main/dev-portfolio.pdf)
-
-</div>
