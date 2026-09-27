@@ -38,7 +38,7 @@
 - 불필요한 JOIN·GROUP BY·MAX 연산을 제거해 **적재 시간 약 3분 → 1분 20초, 55% 단축**
 - 운영 반영 시 프로그램·DB 변경사항, 데이터 보정 SQL, 적용 순서와 검증 항목을 확인하는 절차 정립
 
-#### MCS MES · 제조 현장 MES/WMS 구축
+#### MES · 제조 현장 MES/WMS 구축
 **2026.06 — 2026.08**  
 `Java` `Spring Boot` `React` `PostgreSQL`
 
