@@ -35,7 +35,6 @@
 > **역할** · 풀스택 개발 · Oracle SQL/PLSQL · 성능 개선  
 > **기술** · `C#` `ASP.NET` `Oracle` `PL/SQL` `JavaScript` `RealGrid2` `ECharts`
 
-> [!NOTE]
 > 반도체 생산·품질 데이터를 조회·관리하고, 운영 중 발생하는 성능과 데이터 처리 문제를 개선
 
 - Inbay 재공 현황, 기준정보, 품질 대시보드 등 **화면·API·DB 기능 개발**
@@ -51,7 +50,6 @@
 > **역할** · 풀스택 개발 · WMS 개발 · 요구사항 개선  
 > **기술** · `Java` `Spring Boot` `React` `PostgreSQL`
 
-> [!NOTE]
 > 제조 현장의 자재 이동과 작업 흐름을 관리하고, 실제 사용자 요구사항을 반영해 기능을 개선
 
 - 작업지시, LOT Split·Merge, 위치 이동 등 **MES/WMS 기능 개발**
@@ -69,7 +67,6 @@
 > **역할** · 인프라 · CI/CD  
 > **기술** · `Docker` `Docker Compose` `Jenkins` `AWS EC2`
 
-> [!NOTE]
 > 인사 관리를 위한 올인원 서비스
 
 - Docker Compose 기반 **MSA 배포 환경** 구축
@@ -84,7 +81,6 @@
 > **역할** · 인프라 · CI/CD · AI 모델 학습  
 > **기술** · `Python` `Inception-ResNet-v2` `AWS S3` `SSE` `Docker` `Jenkins`
 
-> [!NOTE]
 > 제조 이미지를 AI로 분석해 정상·불량을 판별하고 결과를 제공하는 시스템
 
 - ImageNet 사전학습 모델 기반 **전이학습·파인튜닝 및 데이터 증강** 수행
@@ -101,7 +97,6 @@
 > **역할** · 인프라 · 백엔드 · 실시간 채팅  
 > **기술** · `Spring Boot` `WebSocket` `STOMP` `JWT` `Docker` `Jenkins`
 
-> [!NOTE]
 > 운동 루틴·기록 관리, 피드, AI 자세 교정, 중고거래 기능을 제공하는 헬스 관리 플랫폼
 
 - WebSocket·STOMP 기반 **실시간 채팅 기능 개발**
