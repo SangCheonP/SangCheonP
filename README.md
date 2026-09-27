@@ -191,6 +191,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SangCheonP-181717?style=flat-square&logo=github)](https://github.com/SangCheonP)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/SangCheonP/dev-portfolio/blob/main/dev-portfolio.pdf)
 
 </div>
