@@ -110,9 +110,9 @@
 
 ### 추가 프로젝트
 
-- **알바닷컴** · Spring Boot 기반 API 개발 및 Docker·GitHub Actions 기반 CI/CD 환경 구축
-- **[Kampus](https://github.com/SangCheonP/KWU-Kampus)** · 대학 생활을 위한 웹 서비스 개발 및 Tomcat·GitHub Actions 기반 배포 자동화
-- **[OfficetelLink](https://github.com/SangCheonP/OfficetelLink)** · 월세 정보·게시판·마이페이지·메일 인증 기능을 제공하는 웹 서비스 개발
+- **[알바닷컴](https://github.com/kw-ic-web/23-teampjt-webssulme)** — Spring Boot 기반 API 개발 및 Docker·GitHub Actions 기반 CI/CD 환경 구축
+- **[Kampus](https://github.com/SangCheonP/KWU-Kampus)** — 대학 생활을 위한 웹 서비스 개발 및 Tomcat·GitHub Actions 기반 배포 자동화
+- **[OfficetelLink](https://github.com/SangCheonP/OfficetelLink)** — 월세 정보·게시판·마이페이지·메일 인증 기능을 제공하는 웹 서비스 개발
 
 ---
 
