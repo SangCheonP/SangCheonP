@@ -11,12 +11,12 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 소개
 
-> **Manufacturing IT · Full Stack · Data/SQL Optimization · CI/CD**
+> **제조 IT · 풀스택 · 데이터/SQL 최적화 · CI/CD**
 
 - 🏭 반도체 생산·품질 시스템 **SSPS 개발 및 운영**
-- ⚙️ 제조 현장 **MES Full Stack 개발**
+- ⚙️ 제조 현장 **MES 풀스택 개발**
 - 📊 Oracle SQL·PL/SQL 기반 **데이터 처리 및 성능 개선**
 - 🔒 동시 요청 환경을 고려한 **데이터 정합성 및 동시성 제어**
 - ☁️ Docker·Jenkins 기반 **배포 환경 및 CI/CD 구축**
@@ -24,16 +24,16 @@
 
 ---
 
-## 💼 Experience
+## 💼 경력
 
-### 노리시스템 · Software Developer
+### 노리시스템 · 소프트웨어 개발자
 **2025.03 — Present**
 
 #### SSPS · Samsung Semiconductor Smart Production System
 **2025.03 — 2026.05 · 2026.09 — Present**
 
-> **Role** · Full Stack · Oracle SQL/PLSQL · Performance Improvement  
-> **Tech** · `C#` `ASP.NET` `Oracle` `PL/SQL` `JavaScript` `RealGrid2` `ECharts`
+> **역할** · 풀스택 · Oracle SQL/PLSQL · 성능 개선  
+> **기술** · `C#` `ASP.NET` `Oracle` `PL/SQL` `JavaScript` `RealGrid2` `ECharts`
 
 - Inbay 재공 현황, 기준정보, 품질 대시보드 등 **화면·API·DB 기능 개발**
 - 약 **28만 건 Carrier + 2.5만 건 WIP → 2만 건 Inbay 데이터**의 적재 흐름 분석
@@ -43,8 +43,8 @@
 #### MES · 제조 현장 MES/WMS 구축
 **2026.06 — 2026.08**
 
-> **Role** · Full Stack · Business Logic · Concurrency Control  
-> **Tech** · `Java` `Spring Boot` `React` `PostgreSQL`
+> **역할** · 풀스택 · 비즈니스 로직 · 동시성 제어  
+> **기술** · `Java` `Spring Boot` `React` `PostgreSQL`
 
 - 작업지시, LOT Split·Merge, 위치 이동 등 **MES/WMS 기능 개발**
 - 실제 사용자 업무 흐름을 확인해 Split·Merge 기능을 **한 화면에서 연속 처리**하도록 개선
@@ -53,13 +53,13 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 프로젝트
 
 ### [S.F.D · Smart Factory Defect Detection](https://github.com/SangCheonP/S.F.D)
 **2024.08.16 — 2024.10.11**
 
-> **Role** · Infra · CI/CD · AI Model Training  
-> **Tech** · `Python` `Inception-ResNet-v2` `AWS S3` `SSE` `Docker` `Jenkins` `Nginx`
+> **역할** · 인프라 · CI/CD · AI 모델 학습  
+> **기술** · `Python` `Inception-ResNet-v2` `AWS S3` `SSE` `Docker` `Jenkins` `Nginx`
 
 제조 이미지를 AI로 분석해 정상·불량을 판별하고 결과를 제공하는 시스템
 
@@ -74,8 +74,8 @@
 ### [SSMART OFFICE](https://github.com/SangCheonP/SSMART-OFFICE)
 **2024.10.14 — 2024.11.22**
 
-> **Role** · Infra · CI/CD  
-> **Tech** · `Docker` `Docker Compose` `Jenkins` `AWS EC2` `Nginx`
+> **역할** · 인프라 · CI/CD  
+> **기술** · `Docker` `Docker Compose` `Jenkins` `AWS EC2` `Nginx`
 
 인사 관리를 위한 올인원 서비스
 
@@ -89,8 +89,8 @@
 ### [0CHA](https://github.com/SangCheonP/0CHA)
 **2024.07.01 — 2024.08.16**
 
-> **Role** · Infra · Backend · Real-time Chat  
-> **Tech** · `Spring Boot` `WebSocket` `STOMP` `JWT` `Docker` `Jenkins`
+> **역할** · 인프라 · 백엔드 · 실시간 채팅  
+> **기술** · `Spring Boot` `WebSocket` `STOMP` `JWT` `Docker` `Jenkins`
 
 운동 루틴·기록 관리, 피드, AI 자세 교정, 중고거래 기능을 제공하는 헬스 관리 플랫폼
 
@@ -100,11 +100,11 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 <table>
 <tr>
-<td><b>Back-End</b></td>
+<td><b>백엔드</b></td>
 <td>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -114,7 +114,7 @@
 </td>
 </tr>
 <tr>
-<td><b>Front-End</b></td>
+<td><b>프론트엔드</b></td>
 <td>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -124,7 +124,7 @@
 </td>
 </tr>
 <tr>
-<td><b>Database</b></td>
+<td><b>데이터베이스</b></td>
 <td>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -132,7 +132,7 @@
 </td>
 </tr>
 <tr>
-<td><b>Infra / DevOps</b></td>
+<td><b>인프라 / DevOps</b></td>
 <td>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
@@ -145,7 +145,7 @@
 
 ---
 
-## 🎓 Education & Training
+## 🎓 교육
 
 | 기간 | 내용 |
 | :---: | --- |
@@ -154,7 +154,7 @@
 
 ---
 
-## 📜 Certifications
+## 📜 자격증
 
 | 취득일 | 자격증 |
 | :---: | --- |
@@ -165,7 +165,7 @@
 
 ---
 
-## 🤝 How I Work
+## 🤝 업무 방식
 
 | | |
 | --- | --- |
