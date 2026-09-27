@@ -35,7 +35,8 @@
 > **역할** · 풀스택 개발 · Oracle SQL/PLSQL · 성능 개선  
 > **기술** · `C#` `ASP.NET` `Oracle` `PL/SQL` `JavaScript` `RealGrid2` `ECharts`
 
-**소개** · 반도체 생산·품질 데이터를 조회·관리하고, 운영 중 발생하는 성능과 데이터 처리 문제를 개선
+> [!NOTE]
+> 반도체 생산·품질 데이터를 조회·관리하고, 운영 중 발생하는 성능과 데이터 처리 문제를 개선
 
 - Inbay 재공 현황, 기준정보, 품질 대시보드 등 **화면·API·DB 기능 개발**
 - 약 **28만 건 Carrier + 2.5만 건 WIP → 2만 건 Inbay 데이터**의 적재 흐름을 분석해 불필요한 JOIN·GROUP BY·MAX 연산을 제거하고 **적재 시간 약 3분 → 1분 20초, 55% 단축**
@@ -50,7 +51,8 @@
 > **역할** · 풀스택 개발 · WMS 개발 · 요구사항 개선  
 > **기술** · `Java` `Spring Boot` `React` `PostgreSQL`
 
-**소개** · 제조 현장의 자재 이동과 작업 흐름을 관리하고, 실제 사용자 요구사항을 반영해 기능을 개선
+> [!NOTE]
+> 제조 현장의 자재 이동과 작업 흐름을 관리하고, 실제 사용자 요구사항을 반영해 기능을 개선
 
 - 작업지시, LOT Split·Merge, 위치 이동 등 **MES/WMS 기능 개발**
 - 실제 사용자 업무 흐름을 확인해 Split·Merge 기능을 **한 화면에서 연속 처리**하도록 개선
@@ -67,7 +69,8 @@
 > **역할** · 인프라 · CI/CD  
 > **기술** · `Docker` `Docker Compose` `Jenkins` `AWS EC2`
 
-**소개** · 인사 관리를 위한 올인원 서비스
+> [!NOTE]
+> 인사 관리를 위한 올인원 서비스
 
 - Docker Compose 기반 **MSA 배포 환경** 구축
 - Jenkins 기반 **CI/CD 파이프라인** 구축
@@ -81,7 +84,8 @@
 > **역할** · 인프라 · CI/CD · AI 모델 학습  
 > **기술** · `Python` `Inception-ResNet-v2` `AWS S3` `SSE` `Docker` `Jenkins`
 
-**소개** · 제조 이미지를 AI로 분석해 정상·불량을 판별하고 결과를 제공하는 시스템
+> [!NOTE]
+> 제조 이미지를 AI로 분석해 정상·불량을 판별하고 결과를 제공하는 시스템
 
 - ImageNet 사전학습 모델 기반 **전이학습·파인튜닝 및 데이터 증강** 수행
 - 학습률·Batch Size·Epoch 등을 조정해 **Accuracy 92% 이상** 달성
@@ -97,11 +101,18 @@
 > **역할** · 인프라 · 백엔드 · 실시간 채팅  
 > **기술** · `Spring Boot` `WebSocket` `STOMP` `JWT` `Docker` `Jenkins`
 
-**소개** · 운동 루틴·기록 관리, 피드, AI 자세 교정, 중고거래 기능을 제공하는 헬스 관리 플랫폼
+> [!NOTE]
+> 운동 루틴·기록 관리, 피드, AI 자세 교정, 중고거래 기능을 제공하는 헬스 관리 플랫폼
 
 - WebSocket·STOMP 기반 **실시간 채팅 기능 개발**
 - HTTP JWT 인증만으로 처리되지 않던 WebSocket 연결 인증을 별도 인터셉터로 분리해 **401 오류 해결**
 - Docker 기반 배포 환경 및 Jenkins CI/CD 구축
+
+### 추가 프로젝트
+
+- **알바닷컴** · Spring Boot 기반 API 개발 및 Docker·GitHub Actions 기반 CI/CD 환경 구축
+- **[Kampus](https://github.com/SangCheonP/KWU-Kampus)** · 대학 생활을 위한 웹 서비스 개발 및 Tomcat·GitHub Actions 기반 배포 자동화
+- **[OfficetelLink](https://github.com/SangCheonP/OfficetelLink)** · 월세 정보·게시판·마이페이지·메일 인증 기능을 제공하는 웹 서비스 개발
 
 ---
 
