@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/SangCheonP/dev-portfolio/blob/main/dev-portfolio.pdf)
+**📄 [포트폴리오 보기](https://github.com/SangCheonP/dev-portfolio/blob/main/dev-portfolio.pdf)**
 
 </div>
 
