@@ -26,7 +26,7 @@
 
 ## 💼 Experience
 
-### NORISYSTEM · Software Developer
+### 노리시스템 · Software Developer
 **2025.03 — Present**
 
 #### SSPS · Samsung Semiconductor Smart Production System
@@ -81,7 +81,7 @@
 **2024.07.01 — 2024.08.16**  
 `Spring Boot` `WebSocket` `STOMP` `JWT` `Docker` `Jenkins`
 
-> 실시간 채팅 기능을 포함한 웹 서비스
+> 운동 루틴·기록 관리, 피드, AI 자세 교정, 중고거래 기능을 제공하는 헬스 관리 플랫폼
 
 - WebSocket·STOMP 기반 **실시간 채팅 기능 개발**
 - WebSocket 전용 인증 인터셉터를 구현해 **JWT 인증 흐름 보완**
@@ -128,7 +128,6 @@
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </td>
 </tr>
 </table>
