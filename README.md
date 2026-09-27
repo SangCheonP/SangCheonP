@@ -27,10 +27,10 @@
 ## 💼 경력
 
 ### 노리시스템 · 소프트웨어 개발자
-**2025.03 — Present**
+**2025.03 — 현재**
 
 #### SSPS · Samsung Semiconductor Smart Production System
-**2025.03 — 2026.05 · 2026.09 — Present**
+**2025.03 — 2026.05 · 2026.09 — 현재**
 
 > **역할** · 풀스택 · Oracle SQL/PLSQL · 성능 개선  
 > **기술** · `C#` `ASP.NET` `Oracle` `PL/SQL` `JavaScript` `RealGrid2` `ECharts`
