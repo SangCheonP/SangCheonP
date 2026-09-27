@@ -30,9 +30,10 @@
 **2025.03 — Present**
 
 #### SSPS · Samsung Semiconductor Smart Production System
-**2025.03 — 2026.05 · 2026.09 — Present**  
-**Role | Full Stack · Oracle SQL/PLSQL · Performance Improvement**  
-`C#` `ASP.NET` `Oracle` `PL/SQL` `JavaScript` `RealGrid2` `ECharts`
+**2025.03 — 2026.05 · 2026.09 — Present**
+
+> **Role** · Full Stack · Oracle SQL/PLSQL · Performance Improvement  
+> **Tech** · `C#` `ASP.NET` `Oracle` `PL/SQL` `JavaScript` `RealGrid2` `ECharts`
 
 - Inbay 재공 현황, 기준정보, 품질 대시보드 등 **화면·API·DB 기능 개발**
 - 약 **28만 건 Carrier + 2.5만 건 WIP → 2만 건 Inbay 데이터**의 적재 흐름 분석
@@ -40,9 +41,10 @@
 - 운영 반영 시 프로그램·DB 변경사항, 데이터 보정 SQL, 적용 순서와 검증 항목을 확인하는 절차 정립
 
 #### MES · 제조 현장 MES/WMS 구축
-**2026.06 — 2026.08**  
-**Role | Full Stack · Business Logic · Concurrency Control**  
-`Java` `Spring Boot` `React` `PostgreSQL`
+**2026.06 — 2026.08**
+
+> **Role** · Full Stack · Business Logic · Concurrency Control  
+> **Tech** · `Java` `Spring Boot` `React` `PostgreSQL`
 
 - 작업지시, LOT Split·Merge, 위치 이동 등 **MES/WMS 기능 개발**
 - 실제 사용자 업무 흐름을 확인해 Split·Merge 기능을 **한 화면에서 연속 처리**하도록 개선
@@ -54,11 +56,12 @@
 ## 🚀 Projects
 
 ### [S.F.D · Smart Factory Defect Detection](https://github.com/SangCheonP/S.F.D)
-**2024.08.16 — 2024.10.11**  
-**Role | Infra · CI/CD · AI Model Training**  
-`Python` `Inception-ResNet-v2` `AWS S3` `SSE` `Docker` `Jenkins` `Nginx`
+**2024.08.16 — 2024.10.11**
 
-> 제조 이미지를 AI로 분석해 정상·불량을 판별하고 결과를 제공하는 시스템
+> **Role** · Infra · CI/CD · AI Model Training  
+> **Tech** · `Python` `Inception-ResNet-v2` `AWS S3` `SSE` `Docker` `Jenkins` `Nginx`
+
+제조 이미지를 AI로 분석해 정상·불량을 판별하고 결과를 제공하는 시스템
 
 - ImageNet 사전학습 모델 기반 **전이학습·파인튜닝 및 데이터 증강** 수행
 - 학습률·Batch Size·Epoch 등을 조정해 **Accuracy 92% 이상** 달성
@@ -69,11 +72,12 @@
 <br/>
 
 ### [SSMART OFFICE](https://github.com/SangCheonP/SSMART-OFFICE)
-**2024.10.14 — 2024.11.22**  
-**Role | Infra · CI/CD**  
-`Docker` `Docker Compose` `Jenkins` `AWS EC2` `Nginx`
+**2024.10.14 — 2024.11.22**
 
-> 인사 관리를 위한 올인원 서비스
+> **Role** · Infra · CI/CD  
+> **Tech** · `Docker` `Docker Compose` `Jenkins` `AWS EC2` `Nginx`
+
+인사 관리를 위한 올인원 서비스
 
 - Docker Compose 기반 **MSA 배포 환경** 구축
 - Jenkins 기반 **CI/CD 파이프라인** 구축
@@ -83,11 +87,12 @@
 <br/>
 
 ### [0CHA](https://github.com/SangCheonP/0CHA)
-**2024.07.01 — 2024.08.16**  
-**Role | Infra · Backend · Real-time Chat**  
-`Spring Boot` `WebSocket` `STOMP` `JWT` `Docker` `Jenkins`
+**2024.07.01 — 2024.08.16**
 
-> 운동 루틴·기록 관리, 피드, AI 자세 교정, 중고거래 기능을 제공하는 헬스 관리 플랫폼
+> **Role** · Infra · Backend · Real-time Chat  
+> **Tech** · `Spring Boot` `WebSocket` `STOMP` `JWT` `Docker` `Jenkins`
+
+운동 루틴·기록 관리, 피드, AI 자세 교정, 중고거래 기능을 제공하는 헬스 관리 플랫폼
 
 - WebSocket·STOMP 기반 **실시간 채팅 기능 개발**
 - HTTP JWT 인증만으로 처리되지 않던 WebSocket 연결 인증을 별도 인터셉터로 분리해 **401 오류 해결**
