@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-> **Full Stack · Data Processing · System Improvement · DevOps**
+> **Manufacturing IT · Full Stack · Data/SQL Optimization · CI/CD**
 
 - 🏭 반도체 생산·품질 시스템 **SSPS 개발 및 운영**
 - ⚙️ 제조 현장 **MES Full Stack 개발**
